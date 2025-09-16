@@ -1,2 +1,4 @@
 #ignore read.md
-.read.md
+read.md
+#ignore history files 
+.history.history/
