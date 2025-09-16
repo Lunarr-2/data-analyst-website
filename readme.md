@@ -67,7 +67,7 @@ It is hosted on **GitHub Pages**.
 
 📧 Contact
 
-Email: (tolutheanalyst@gmail.com[email])
+Email: [tolutheanalyst@gmail.com](email)
 
 GitHub: (Lunarr-2[https://github.com/Lunarr-2])
 
