@@ -204,3 +204,28 @@
     text-align: center;
     margin: 2rem 0 0 2rem;
   }
+
+
+/* 🔽 Mobile Fix */
+@media (max-width: 600px) {
+  .stack-icons {
+    grid-template-columns: repeat(2, 1fr); /* only 2 per row on mobile */
+    gap: 0.5rem;
+  }
+
+  .stack {
+    flex-direction: row; /* keep text beside image */
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+
+  .stack img {
+    width: 25px;
+    height: 25px;
+    margin-right: 8px;
+  }
+
+  .stack h4 {
+    font-size: 0.9rem;
+  }
+}
